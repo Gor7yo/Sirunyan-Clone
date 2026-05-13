@@ -26,7 +26,7 @@ export const Header = () => {
         <div className="header-content__middle-side-logo">
           <img
             className="nav-logo"
-            src="./src/public/images/logo.png"
+            src="./public/images/logo.png"
             alt="logo"
           />
         </div>

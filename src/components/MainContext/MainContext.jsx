@@ -44,7 +44,7 @@ export const MainContext = ({ isRoute }) => {
                       <div className="background-image__block">
                         <img
                           className="background-image"
-                          src={`./src/public/images/grid/${gridItem.name}.png`}
+                          src={`./public/images/grid/${gridItem.name}.png`}
                           alt={gridItem.title}
                         />
                       </div>
