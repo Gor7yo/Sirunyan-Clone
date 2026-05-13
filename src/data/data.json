@@ -35,34 +35,34 @@
     {
       "name": "about",
       "title": "About us",
-      "preview": "/src/assets/images/aboutus.jpg",
+      "preview": "aboutus.jpg",
       "discription": "The beautiful language of your imagination",
       "button": "Contact Us"
     },
     {
       "name": "blog",
       "title": "Blog",
-      "preview": "/src/assets/images/blog.png",
+      "preview": "blog.png",
       "minDiscription": "12/22/2024 min read"
     },
     {
       "name": "services",
       "title": "Services",
-      "preview": "/src/assets/images/services.jpg",
+      "preview": "services.jpg",
       "discription": "Enhancing the beauty  through digital expertise",
       "button": "Contact Us"
     },
     {
       "name": "portfolio",
       "title": "Portfolio",
-      "preview": "/src/assets/images/portfolio.jpg",
+      "preview": "portfolio.jpg",
       "discription": "The beautiful language of your imagination",
       "button": "Contact Us"
     },
     {
       "name": "home",
       "title": "Home",
-      "preview": "/src/assets/images/home.jpg",
+      "preview": "home.jpg",
       "discription": "The Beautiful Language of your imagination",
       "button": "Contact Us"
     }

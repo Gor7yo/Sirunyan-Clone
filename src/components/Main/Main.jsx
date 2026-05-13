@@ -19,7 +19,7 @@ export const Main = () => {
             <div className="preview__backgroud-image">
               <img
                 className={`preview__img img-${item.name}`}
-                src={item.preview}
+                src={`/images/${item.preview}`}
                 alt={item.title}
               />
             </div>
