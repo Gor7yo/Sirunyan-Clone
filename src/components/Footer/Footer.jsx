@@ -26,7 +26,7 @@ export const Footer = () => {
           <div className="bottom-logo">
             <img
               className="footer-logo"
-              src="./src/assets/images/logo.png"
+              src="./src/public/images/logo.png"
               alt="logo"
             />
           </div>
