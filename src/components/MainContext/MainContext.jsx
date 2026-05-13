@@ -31,7 +31,11 @@ export const MainContext = ({ isRoute }) => {
             {article.outTeam ? <TeamSlider team={mainOutTeam} /> : ""}
 
             {article.textBlocks ? (
-              <TextBlocks blocks={mainTextBlocks} prop={article.name} pathname={location.pathname} />
+              <TextBlocks
+                blocks={mainTextBlocks}
+                prop={article.name}
+                pathname={location.pathname}
+              />
             ) : (
               ""
             )}
@@ -44,7 +48,7 @@ export const MainContext = ({ isRoute }) => {
                       <div className="background-image__block">
                         <img
                           className="background-image"
-                          src={`./public/images/grid/${gridItem.name}.png`}
+                          src={`./images/grid/${gridItem.name}.png`}
                           alt={gridItem.title}
                         />
                       </div>
