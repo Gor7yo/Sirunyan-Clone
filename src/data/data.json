@@ -1,0 +1,190 @@
+{
+  "headerNavElements": [
+    {
+      "elementName": "Home",
+      "side": "l",
+      "path": "home"
+    },
+    {
+      "elementName": "Services",
+      "side": "l",
+      "path": "services"
+    },
+    {
+      "elementName": "Portfolio",
+      "side": "l",
+      "path": "portfolio"
+    },
+    {
+      "elementName": "About Us",
+      "side": "r",
+      "path": "about"
+    },
+    {
+      "elementName": "Blog",
+      "side": "r",
+      "path": "blog"
+    },
+    {
+      "elementName": "Contact Us",
+      "side": "r",
+      "path": "contacts"
+    }
+  ],
+  "mainPreview": [
+    {
+      "name": "about",
+      "title": "About us",
+      "preview": "/src/assets/images/aboutus.jpg",
+      "discription": "The beautiful language of your imagination",
+      "button": "Contact Us"
+    },
+    {
+      "name": "blog",
+      "title": "Blog",
+      "preview": "/src/assets/images/blog.png",
+      "minDiscription": "12/22/2024 min read"
+    },
+    {
+      "name": "services",
+      "title": "Services",
+      "preview": "/src/assets/images/services.jpg",
+      "discription": "Enhancing the beauty  through digital expertise",
+      "button": "Contact Us"
+    },
+    {
+      "name": "portfolio",
+      "title": "Portfolio",
+      "preview": "/src/assets/images/portfolio.jpg",
+      "discription": "The beautiful language of your imagination",
+      "button": "Contact Us"
+    },
+    {
+      "name": "home",
+      "title": "Home",
+      "preview": "/src/assets/images/home.jpg",
+      "discription": "The Beautiful Language of your imagination",
+      "button": "Contact Us"
+    }
+  ],
+  "mainContext": [
+    {
+      "name": "about",
+      "title": "About Us",
+      "titleDiscription": "Hi, so good to see you here!",
+      "discription": "Welcome to Sirunyan Jewelry and Accessories CAD Studio, where the elegance of traditional jewelry design meets the precision of modern digital technology. At Sirunyan, we specialize in providing computer-aided design (CAD) services tailored specifically for the jewelry and accessories industry. Our expertise lies in transforming and beautifying creative visions into detailed digital blueprints, ensuring each piece is crafted with the highest level of accuracy, beauty and care. Our personalized approach means that every client receives individual attention and bespoke solutions tailored to their specific needs. We are not just a CAD studio; we are a partner in your creative journey, dedicated to helping you achieve perfection in every piece of jewelry you design.",
+      "outTeam": true,
+      "textBlocks": true
+    },
+    {
+      "name": "blog",
+      "title": "Blog",
+      "titleDiscription": "Behind every legendary thing stand great people, historical events, curious observers and virtuoso story-tellers.",
+      "discription": "There are so many modern, luxurious and budget friendly brands in jewelry fashion industry that offer beautiful designs to wear in everyday life and during important occasions. But among all these mess I’ve always felt a respectable magnetism towards Cartier, which seems to be epitome of elegance, beauty, uniqueness, charm and timelessness. And Cartier slogan stands for its driven force “Never imitate, always innovate”. Cartier style much owes to its attitude towards jewelry design combining old artifacts with modern style. That’s why every single piece has its story to tell and style to impose. There is so much to speak about this legendary brand, but I’ve chosen a few of them to share.",
+      "textBlocks": true
+    },
+    {
+      "name": "home",
+      "title": "Home",
+      "theme": "home",
+      "gridBlock": [
+        {
+          "name": "sketching",
+          "title": "Sketching"
+        },
+        {
+          "name": "3dModeling",
+          "title": "3D modeling"
+        },
+        {
+          "name": "sculpting",
+          "title": "Sculpting",
+          "styleUpper": true
+        },
+        {
+          "name": "rendering",
+          "title": "Rendering",
+          "styleUpper": true
+        },
+        {
+          "name": "rmfwSmm",
+          "title": "Rendering & more for Websites and SMM"
+        },
+        {
+          "name": "animations",
+          "title": "Animations"
+        }
+      ]
+    }
+  ],
+  "mainOutTeam": [
+    {
+      "name": "Tatev Sirunyan",
+      "rank": "Founder CEO",
+      "description": "Our CEO is like a gem in the realm of jewelry CAD, constantly polishing her expertise, showering the team with care,  and occasionally just forgetting that sleep is as precious as a flawless diamond!"
+    },
+    {
+      "name": "Tatev Sirunyan",
+      "rank": "Founder CEO",
+      "description": "A self-confident and enthusiastic Senior CAD professional who once dazzled on the football field, theatres and even fencing stripes, and now charms everyone with her sociable and friendly nature, making her a beloved figure in both her personal and professional circles."
+    },
+    {
+      "name": "Tatev Sirunyan",
+      "rank": "Founder CEO",
+      "description": "The ethereal artist who's as fragile as a butterfly but can knock out a masterpiece with one hand and an opponent with the other like a heavyweight champion, critiques with the precision of a surgeon, rebels against all things dull, and enjoys life like it's one big, beautiful canvas!"
+    },
+    {
+      "name": "Tatev Sirunyan",
+      "rank": "Founder CEO",
+      "description": "Our CEO is like a gem in the realm of jewelry CAD, constantly polishing her expertise, showering the team with care,  and occasionally just forgetting that sleep is as precious as a flawless diamond!"
+    },
+    {
+      "name": "Tatev Sirunyan",
+      "rank": "Founder CEO",
+      "description": "Our CEO is like a gem in the realm of jewelry CAD, constantly polishing her expertise, showering the team with care,  and occasionally just forgetting that sleep is as precious as a flawless diamond!"
+    },
+    {
+      "name": "Tatev Sirunyan",
+      "rank": "Founder CEO",
+      "description": "Our CEO is like a gem in the realm of jewelry CAD, constantly polishing her expertise, showering the team with care,  and occasionally just forgetting that sleep is as precious as a flawless diamond!"
+    }
+  ],
+  "mainTextBlocks": [
+    {
+      "title": "What Makes Us Love What We DO",
+      "for": "about",
+      "blocks": [
+        {
+          "title": "OUR MISSION",
+          "description": "Our mission is to empower companies and individuals interested in creating jewelry with the precision of digital technology, enabling them to create beautiful, unique pieces with ease and efficiency. We are dedicated to providing innovative CAD solutions that enhance creativity, ensure quality, and bring intricate designs to life with impeccable accuracy and realistic visuals."
+        },
+        {
+          "title": "OUR MISSION",
+          "description": "Our mission is to empower companies and individuals interested in creating jewelry with the precision of digital technology, enabling them to create beautiful, unique pieces with ease and efficiency. We are dedicated to providing innovative CAD solutions that enhance creativity, ensure quality, and bring intricate designs to life with impeccable accuracy and realistic visuals."
+        }
+      ]
+    }
+  ],
+  "footerElement": [
+    {
+      "elementName": "Home",
+      "path": "home"
+    },
+    {
+      "elementName": "Services",
+      "path": "services"
+    },
+    {
+      "elementName": "About Us",
+      "path": "about"
+    },
+    {
+      "elementName": "Blog",
+      "path": "blog"
+    },
+    {
+      "elementName": "Contact Us",
+      "path": "contacts"
+    }
+  ]
+}

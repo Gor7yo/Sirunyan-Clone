@@ -1,0 +1,115 @@
+.main__context-block {
+  width: 100%;
+  height: 100%;
+  background-color: #e1dacf;
+}
+
+.grid-block__content {
+  grid-gap: 20px;
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 0 auto;
+  padding: 1rem;
+  width: 85%;
+}
+
+.grid-item {
+  align-items: center;
+  background-color: #e1dacf;
+  border-radius: 2rem;
+  color: #555;
+  display: flex;
+  font-family:
+    Montserrat Alternates,
+    sans-serif;
+  height: 20rem;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.background-image__block {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  margin: auto;
+  padding: 15px;
+  width: 100%;
+}
+
+.background-image {
+  background-position: 50%;
+  height: 100%;
+  max-width: 100%;
+  object-fit: cover;
+  width: 100%;
+  filter: opacity(50%);
+}
+
+.grid-title {
+  left: 50%;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.title-block__title {
+  position: relative;
+  top: -7.2rem;
+  background-color: #e1dacf;
+  display: flex;
+  align-items: center;
+  padding-top: 60px;
+  flex-direction: column;
+  color: #555;
+  border-radius: 100% 100% 0 0 / 90% 90% 0 0;
+  width: 100%;
+}
+
+.title-block__title .title {
+  font-size: 4rem;
+  font-weight: 400;
+  color: #555;
+  position: relative;
+}
+
+.title-block__title .title::before {
+  content: "";
+  position: absolute;
+  width: 20px;
+  height: 1rem;
+  left: 0;
+  color: #000;
+  bottom: 0;
+}
+
+.title-block__title .title-discription {
+  text-align: center;
+  max-width: 1376px;
+  font-weight: 500;
+  font-size: 2.1rem;
+  color: #565656;
+}
+
+.title-block__discription {
+  font-size: 1.5rem;
+  padding: 91px 117px;
+  display: flex;
+  text-align: center;
+  font-weight: 400;
+  background-color: #ebe2d8;
+  border: 2px solid #c6bfb4;
+  width: 105rem;
+  border-radius: 50px;
+}
+
+.main__title-block {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}

@@ -1,0 +1,29 @@
+:root {
+  --Gray: #333;
+  --Main-Color: #333;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-content__left-side-block,
+.header-content__right-side-block {
+  display: flex;
+  align-items: center;
+}
+
+.nav-link {
+  background-color: #ffffff00;
+  border: none;
+  text-decoration: none;
+  font-size: 1.25rem;
+  color: #000;
+  font-weight: 400;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
